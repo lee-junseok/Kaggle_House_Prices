@@ -1,4 +1,4 @@
-# Kaggle_House_Prices
+# House_Prices_Prediction
 
 Work for the Kaggle Competition "House Prices: Advanced Regression Techniques"
 
