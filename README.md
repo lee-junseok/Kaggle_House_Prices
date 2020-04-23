@@ -1,8 +1,15 @@
 # House_Prices_Prediction
 
-Work for the Kaggle Competition "House Prices: Advanced Regression Techniques"
+This is a short machine learning project to predict house prices.
 
-Competition overview:
+Data from the Kaggle Competition "House Prices: Advanced Regression Techniques"
+
+### Models used:
+Light GBM
+XGBoost
+Random Forest
+
+### Competition overview:
 
 '''
 
@@ -19,7 +26,7 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 
 '''
 
-Files:
+### Files:
 
 
 - requirements.txt contains packages used this work.
@@ -28,4 +35,6 @@ Files:
 
 - Modeling contains data preprocessing, feature engineering, modeling and prediction.
 
-The baseline model with simple data preprocessing and modeling with RandomForest Regressor gives an root-mean-sqaured-logarithmic-error ~0.15. My work with Lightgbm improved it to ~0.02.
+### Results
+- The baseline model with simple data preprocessing and modeling with RandomForest Regressor gives an root-mean-sqaured-logarithmic-error ~0.15.
+- My work with Lightgbm improved it to ~0.02.
